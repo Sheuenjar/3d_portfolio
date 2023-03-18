@@ -15,13 +15,9 @@ import {
   git,
   figma,
   docker,
-  meta,
-  starbucks,
-  tesla,
   telmark,
   accenture,
   rekrutados,
-  shopify,
   carrent,
   jobit,
   tripguide,
@@ -219,7 +215,7 @@ const projects = [
       },
     ],
     image: carrent,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/Sheuenjar/",
   },
   {
     name: "Job IT",
@@ -240,7 +236,7 @@ const projects = [
       },
     ],
     image: jobit,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/Sheuenjar/",
   },
   {
     name: "Trip Guide",
@@ -261,7 +257,7 @@ const projects = [
       },
     ],
     image: tripguide,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/Sheuenjar/",
   },
 ];
 
