@@ -18,7 +18,6 @@ import {
   telmark,
   accenture,
   rekrutados,
-  carrent,
   jobit,
   tripguide,
   threejs,
