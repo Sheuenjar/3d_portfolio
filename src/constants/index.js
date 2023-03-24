@@ -22,6 +22,7 @@ import {
   jobit,
   tripguide,
   threejs,
+  lyrics,
 } from "../assets";
 
 export const navLinks = [
@@ -197,25 +198,26 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Car Rent",
+    name: "Lyriks",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "For this developer portfolio project, I created a music streaming site. The site allows users to search for and listen to their favorite music. It also features a recommendation system that suggests new music based on users' listening habits.",
     tags: [
       {
         name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "mongodb",
+        name: "tailwind",
         color: "green-text-gradient",
       },
       {
-        name: "tailwind",
+        name: "redux",
         color: "pink-text-gradient",
       },
     ],
-    image: carrent,
-    source_code_link: "https://github.com/Sheuenjar/",
+    image: lyrics,
+    source_code_link: "https://github.com/Sheuenjar/music-player-online/",
+    externlink_link: "https://lyriks-player-app.netlify.app/"
   },
   {
     name: "Job IT",
@@ -237,6 +239,7 @@ const projects = [
     ],
     image: jobit,
     source_code_link: "https://github.com/Sheuenjar/",
+    externlink_link: "",
   },
   {
     name: "Trip Guide",
@@ -258,6 +261,7 @@ const projects = [
     ],
     image: tripguide,
     source_code_link: "https://github.com/Sheuenjar/",
+    externlink_link: "",
   },
 ];
 

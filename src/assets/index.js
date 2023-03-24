@@ -4,6 +4,7 @@ import creator from "./creator.png";
 import mobile from "./mobile.png";
 import web from "./web.png";
 import github from "./github.png";
+import externlink from "./externlink.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
 
@@ -28,6 +29,7 @@ import rekrutados from "./company/rekrutados.jpeg";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import lyrics from "./lyrics.png";
 
 export {
   logo,
@@ -36,6 +38,7 @@ export {
   mobile,
   web,
   github,
+  externlink,
   menu,
   close,
   css,
@@ -57,4 +60,5 @@ export {
   carrent,
   jobit,
   tripguide,
+  lyrics,
 };
