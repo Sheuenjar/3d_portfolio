@@ -26,7 +26,7 @@ import telmark from "./company/telmark.jpeg";
 import accenture from "./company/accenture.jpeg";
 import rekrutados from "./company/rekrutados.jpeg";
 
-import jobit from "./jobit.png";
+import videoplayer from "./videoplayer.png";
 import tripguide from "./tripguide.png";
 import lyrics from "./lyrics.png";
 
@@ -56,7 +56,7 @@ export {
   telmark,
   accenture,
   rekrutados,
-  jobit,
+  videoplayer,
   tripguide,
   lyrics,
 };

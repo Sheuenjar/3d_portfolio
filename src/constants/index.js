@@ -18,7 +18,7 @@ import {
   telmark,
   accenture,
   rekrutados,
-  jobit,
+  videoplayer,
   tripguide,
   threejs,
   lyrics,
@@ -199,7 +199,7 @@ const projects = [
   {
     name: "Lyriks",
     description:
-      "For this developer portfolio project, I created a music streaming site. The site allows users to search for and listen to their favorite music. It also features a recommendation system that suggests new music based on users' listening habits.",
+      "For this developer portfolio project, I designed and developed a user-friendly music streaming site. The site allows users to search for and listen to their favorite music. It also features a recommendation system that suggests new music based on users' listening habits.",
     tags: [
       {
         name: "react",
@@ -219,26 +219,26 @@ const projects = [
     externlink_link: "https://lyriks-player-app.netlify.app/"
   },
   {
-    name: "Job IT",
+    name: "Video Player",
     description:
-      "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+      "I created a video-sharing platform using the YouTube API that allows users to find videos easily searching through YouTube's vast library. The platform provides a seamless user experience with an intuitive interface, quick loading, and optimization for various devices.",
     tags: [
       {
         name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "restapi",
+        name: "tailwind",
         color: "green-text-gradient",
       },
       {
-        name: "scss",
+        name: "rapidAPI",
         color: "pink-text-gradient",
       },
     ],
-    image: jobit,
-    source_code_link: "https://github.com/Sheuenjar/",
-    externlink_link: "",
+    image: videoplayer,
+    source_code_link: "https://github.com/Sheuenjar/Youtube/",
+    externlink_link: "https://a-video-player.netlify.app/",
   },
   {
     name: "Trip Guide",
