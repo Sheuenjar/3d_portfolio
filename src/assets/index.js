@@ -27,7 +27,7 @@ import accenture from "./company/accenture.jpeg";
 import rekrutados from "./company/rekrutados.jpeg";
 
 import videoplayer from "./videoplayer.png";
-import tripguide from "./tripguide.png";
+import dalle from "./dalle.png";
 import lyrics from "./lyrics.png";
 
 export {
@@ -57,6 +57,6 @@ export {
   accenture,
   rekrutados,
   videoplayer,
-  tripguide,
+  dalle,
   lyrics,
 };

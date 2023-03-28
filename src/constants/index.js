@@ -19,7 +19,7 @@ import {
   accenture,
   rekrutados,
   videoplayer,
-  tripguide,
+  dalle,
   threejs,
   lyrics,
 } from "../assets";
@@ -241,26 +241,30 @@ const projects = [
     externlink_link: "https://a-video-player.netlify.app/",
   },
   {
-    name: "Trip Guide",
+    name: "DALL-E Img Gnr.",
     description:
-      "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+      "For my latest developer portfolio project, I utilized the DALL-E API to design an innovative image generator. Driven by AI, this generator is capable of producing exceptional quality images based on user-defined parameters. The potential for creative exploration and expression with this technology is limitless.",
     tags: [
       {
-        name: "nextjs",
+        name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "supabase",
+        name: "node",
         color: "green-text-gradient",
       },
       {
-        name: "css",
+        name: "express",
         color: "pink-text-gradient",
       },
+      {
+        name: "mongoDB",
+        color: "blue-text-gradient",
+      },
     ],
-    image: tripguide,
-    source_code_link: "https://github.com/Sheuenjar/",
-    externlink_link: "",
+    image: dalle,
+    source_code_link: "https://github.com/Sheuenjar/dalle_clone/",
+    externlink_link: "https://dall-e-img-generator.netlify.app/",
   },
 ];
 
