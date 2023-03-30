@@ -72,10 +72,10 @@ const technologies = [
     name: "JavaScript",
     icon: javascript,
   },
-  {
+  /* {
     name: "TypeScript",
     icon: typescript,
-  },
+  }, */
   {
     name: "React JS",
     icon: reactjs,
@@ -104,14 +104,14 @@ const technologies = [
     name: "git",
     icon: git,
   },
-  {
+  /* {
     name: "figma",
     icon: figma,
-  },
-  {
+  }, */
+  /* {
     name: "docker",
     icon: docker,
-  },
+  }, */
 ];
 
 const experiences = [
