@@ -29,6 +29,7 @@ import rekrutados from "./company/rekrutados.jpeg";
 import videoplayer from "./videoplayer.png";
 import dalle from "./dalle.png";
 import lyrics from "./lyrics.png";
+import aiChat from "./aiChat.png"
 
 export {
   logo,
@@ -59,4 +60,5 @@ export {
   videoplayer,
   dalle,
   lyrics,
+  aiChat,
 };

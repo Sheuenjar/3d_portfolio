@@ -20,6 +20,7 @@ import {
   rekrutados,
   videoplayer,
   dalle,
+  aiChat,
   threejs,
   lyrics,
 } from "../assets";
@@ -265,6 +266,32 @@ const projects = [
     image: dalle,
     source_code_link: "https://github.com/Sheuenjar/dalle_clone/",
     externlink_link: "https://dall-e-img-generator.netlify.app/",
+  },
+  {
+    name: "AI CHAT 3.0",
+    description:
+      "For my latest developer portfolio project, I utilized the DALL-E API to design an innovative image generator. Driven by AI, this generator is capable of producing exceptional quality images based on user-defined parameters. The potential for creative exploration and expression with this technology is limitless.",
+    tags: [
+      {
+        name: "vanilla",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "node",
+        color: "green-text-gradient",
+      },
+      {
+        name: "vite",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "openAi",
+        color: "blue-text-gradient",
+      },
+    ],
+    image: aiChat,
+    source_code_link: "https://github.com/Sheuenjar/open_ai_chat/",
+    externlink_link: "https://open-ai-chat-pi.vercel.app//",
   },
 ];
 
