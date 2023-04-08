@@ -29,7 +29,8 @@ import rekrutados from "./company/rekrutados.jpeg";
 import videoplayer from "./videoplayer.png";
 import dalle from "./dalle.png";
 import lyrics from "./lyrics.png";
-import aiChat from "./aiChat.png"
+import aiChat from "./aiChat.png";
+import threejs_ai from "./threejs_ai.png";
 
 export {
   logo,
@@ -61,4 +62,5 @@ export {
   dalle,
   lyrics,
   aiChat,
+  threejs_ai,
 };
